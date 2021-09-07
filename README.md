@@ -1,6 +1,7 @@
 # minezweeper: I know how to spell it
 
-![minezweeper](https://user-images.githubusercontent.com/61586665/132294971-29534919-3a28-4a7c-bb79-7bc78b802b5e.png)
+![minezweeper](https://user-images.githubusercontent.com/61586665/132295596-c0da2a53-ace9-4567-915e-92996ce7766a.png)
+
 
 
 A simple Python **minesweeper game** using tkinter, created mainly to showcase a 'complex' **algorithm** for a class project. Minezweeper is a single-file Python game with two libraries imported, a few variables and is mainly constructed of if-else statements and runs by calling a function.
