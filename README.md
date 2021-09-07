@@ -1,4 +1,4 @@
-# minezweeper: school project
+# minezweeper: I know how to spell it
 
 ![minezweeper](https://user-images.githubusercontent.com/61586665/132294971-29534919-3a28-4a7c-bb79-7bc78b802b5e.png)
 
