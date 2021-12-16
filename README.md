@@ -4,7 +4,7 @@
 
 
 
-A simple Python **minesweeper game** using tkinter, created mainly to showcase a 'complex' **algorithm** for a class project. Minezweeper is a single-file Python game with two libraries imported, a few variables and is mainly constructed of if-else statements and runs by calling a function.
+A simple Python **minesweeper game** using tkinter, created mainly to showcase a 'complex' **flowchart** for a class project. Minezweeper is a single-file Python game with two libraries imported (`tkinter` and `random`), a few variables, and is mainly constructed of if-else statements and runs by calling a singular function.
 
 https://github.com/JediLuke2/minezweeper
 
